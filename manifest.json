@@ -1,5 +1,7 @@
 {
    "background": {
+      // lot's of js file imported
+      // this page property act as a hub for js scripts, or these scripts should be imported using scripts property
       "page": "background.html"
    },
    "browser_action": {
